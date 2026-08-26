@@ -61,6 +61,14 @@ CodingPath/
 3. Configure your Oracle DB connection details in `DBConnection.java`.
 4. Open the project in IntelliJ IDEA and run `Main.java`.
 
+## Screenshots
+
+! [Login Screen] (screenshots/login.png)
+
+! [Onboarding Screen] (screenshots/onboarding.png)
+
+! [Chat Screen] (screenshots/chat.png)
+
 ## Author
 
 **Noor Ul Subha**
