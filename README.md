@@ -63,11 +63,11 @@ CodingPath/
 
 ## Screenshots
 
-! [Login Screen] (screenshots/login.png)
+![Login Screen](screenshots/login.png)
 
-! [Onboarding Screen] (screenshots/onboarding.png)
+![Onboarding Screen](screenshots/onboarding.png)
 
-! [Chat Screen] (screenshots/chat.png)
+![Chat Screen](screenshots/chat.png)
 
 ## Author
 
