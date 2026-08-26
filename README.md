@@ -8,11 +8,11 @@ CodingPath is a programming learning hub. New users sign up and go through a sho
 
 ## Features
 
-- 🔐 **Secure Authentication** — Login/signup with SHA-256 hashed passwords
-- 🧭 **Personalized Onboarding** — Captures field of study and experience level to tailor guidance
-- 🤖 **AI Coding Guide** — Chat-based assistant powered by an LLM for programming advice and learning paths
-- 🎨 **Dark Theme UI** — Consistent dark theme across all screens (colors/fonts centralized in `Theme.java`)
-- 🗄️ **Oracle Database Integration** — User data and app state persisted via Oracle DB
+- **Secure Authentication** — Login/signup with SHA-256 hashed passwords
+- **Personalized Onboarding** — Captures field of study and experience level to tailor guidance
+- **AI Coding Guide** — Chat-based assistant powered by an LLM for programming advice and learning paths
+- **Dark Theme UI** — Consistent dark theme across all screens (colors/fonts centralized in `Theme.java`)
+- **Oracle Database Integration** — User data and app state persisted via Oracle DB
 
 ## Tech Stack
 
@@ -60,10 +60,6 @@ CodingPath/
 2. Add your Groq API key in `openai.key/key.txt` (this file is gitignored and won't be tracked).
 3. Configure your Oracle DB connection details in `DBConnection.java`.
 4. Open the project in IntelliJ IDEA and run `Main.java`.
-
-## Screenshots
-
-*(Add screenshots of the login, onboarding, and chat screens here)*
 
 ## Author
 
